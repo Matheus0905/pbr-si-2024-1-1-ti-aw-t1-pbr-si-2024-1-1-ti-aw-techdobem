@@ -11,7 +11,7 @@ Estamos desenvolvendo um projeto de site para cadastrar ONGs e facilitar a capta
 
 * Pedro Maia Claudio Vilaça Ferreira
 * Luiza Vertelo
-* Matheus Costa
+* Matheus Henrique de Carvalho Costa
 * Hugo Ferreira
 * Luis Felipe
 * João Vitor Barros
