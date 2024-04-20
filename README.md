@@ -1,23 +1,24 @@
-# TÍTULO DO PROJETO
+# Tech Do Bem
 
-`CURSO`
+`Sistemas de Informação`
 
-`DISCIPLINA`
+`Trabalho Interdisciplinar`
 
-`SEMESTRE`
+` 1 SEMESTRE`
 
-Descrever resumidamente, em um ou dois parágrafos, o projeto que está sendo desenvolvido.
-
+Estamos desenvolvendo um projeto de site para cadastrar ONGs e facilitar a captação de recursos para pessoas em situação de vulnerabilidade social. O site permitirá que as ONGs se cadastrem e divulguem suas causas e necessidades, enquanto os usuários poderão navegar pelas diferentes instituições, conhecer suas atividades e fazer doações de forma direta e segura. O objetivo é promover a solidariedade e conectar pessoas dispostas a ajudar com organizações que fazem a diferença na comunidade, facilitando o acesso aos recursos necessários para o desenvolvimento de projetos sociais
 ## Integrantes
 
-* Nome completo do aluno 1
-* Nome completo do aluno 2
-* Nome completo do aluno 3
-* Nome completo do aluno 4
+* Pedro Maia Claudio Vilaça Ferreira
+* Luiza Vertelo
+* Matheus Costa
+* Hugo Ferreira
+* Luis Felipe
+* João Vitor Barros
 
 ## Orientador
 
-* Nome completo do professor 1
+* Wesley Dias Maciel
 
 ## Instruções de utilização
 
